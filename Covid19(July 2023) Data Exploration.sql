@@ -5,19 +5,15 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 */
 
---Select *
---From PortfolioProject..CovidDeaths 
---order by 3,4
 
-
--- Select Data that we are going to be starting with
+-- Selecting Data that we are going to be starting with
 
 Select continent, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
 where continent is not null 
 order by 1,2
 
--
+
 -- Total Cases vs Total Deaths
 -- Death Percentage in my country Nigeria
 
@@ -103,7 +99,6 @@ Join PortfolioProject..CovidVaccinations cv
 	On cd.location = cv.location
 	and cd.date = cv.date
 where cd.continent is not null 
-
 )
 Select *, (RollingPeopleVaccinated/Population)*100
 From PV
