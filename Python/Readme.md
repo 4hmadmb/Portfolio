@@ -1,4 +1,4 @@
-																																						Python Project
+																					Python Project
 																			
 # MY FIRST WEBSCRAPE
 
@@ -25,6 +25,5 @@ I cleaned the data gotten then merged all of them together and pushed it to Powe
 
 # End Result
 This is the final dashboard created in Power BI
-
 										![image](https://github.com/4hmadmb/Portfolio/assets/116957999/732b505a-8502-4dd8-b4b7-f6bff27a62a8)
 
