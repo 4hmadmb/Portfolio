@@ -9,7 +9,7 @@ I am a dedicated and enthusiastic Data Scientist/Analyst with a keen interest in
 In this portfolio, you will discover a collection of projects that reflect my expertise in various aspects of data science. From exploratory data analysis to predictive modeling, each project has been carefully crafted to demonstrate my problem-solving abilities and analytical mindset.
 
 # Projects Highlights
-* Analyzing Barcelona's 2022/23 Season: Utilizing machine learning algorithms to forecast customer churn, enabling proactive retention strategies for businesses.
+* Analyzing Barcelona Players 2022/23 Season: Utilizing scraped data to provide a comprehensive overview of the player's overall performance and the individual contributions of each player throughout the season .
 
 
 
